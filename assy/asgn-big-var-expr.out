@@ -1,0 +1,13 @@
+Executing compiled code...
+Machine: execution ended with 0 items left on the stack.
+
+Symbol Table Contents
+=====================
+
+        nine :           9
+  negHundred :        -100
+           x :         154
+         ten :          10
+         two :           2
+       three :           3
+        five :           5

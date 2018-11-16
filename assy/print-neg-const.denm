@@ -1,0 +1,3 @@
+PUSH  2
+NEG
+PRINT

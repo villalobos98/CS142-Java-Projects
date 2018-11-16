@@ -1,0 +1,4 @@
+PUSH  12
+PUSH  3
+DIV
+PRINT

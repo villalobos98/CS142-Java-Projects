@@ -1,0 +1,27 @@
+PUSH  2
+STORE two
+PUSH  3
+STORE three
+PUSH  9
+STORE nine
+PUSH  5
+STORE five
+PUSH  10
+STORE ten
+PUSH  100
+NEG
+STORE negHundred
+LOAD  two
+LOAD  three
+MUL
+LOAD  nine
+LOAD  five
+SUB
+MUL
+LOAD  ten
+NEG
+MUL
+LOAD  negHundred
+MUL
+SQRT
+STORE x

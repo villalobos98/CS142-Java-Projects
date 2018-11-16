@@ -1,0 +1,9 @@
+Executing compiled code...
+*** -13
+Machine: execution ended with 0 items left on the stack.
+
+Symbol Table Contents
+=====================
+
+           a :           2
+           b :          22

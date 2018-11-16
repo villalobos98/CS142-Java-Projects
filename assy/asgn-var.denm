@@ -1,0 +1,4 @@
+PUSH  2
+STORE x
+LOAD  x
+STORE y
